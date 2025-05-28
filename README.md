@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:478ed1&height=180&section=header&text=Mahmoud%20Shahbo%20👨‍💻&fontSize=35&fontColor=ffffff)
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&width=435&lines=Flutter+Developer;Open+To+Work;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:shahbo.dev@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
   </a>
