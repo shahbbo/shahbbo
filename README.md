@@ -123,8 +123,8 @@ I specialize in bringing ideas to life with beautiful UI, clean architecture, an
 
 ## 📩 Contact
 
-- 📧 Email: shahbo.dev@gmail.com  
-- 📞 Phone: [+20 1555173391](https://wa.link/7aatzk) 
+- 📧 [Email](shahbo.dev@gmail.com)  
+- 📞 [WhatsApp](https://wa.link/7aatzk) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-shahbo-71b4232a4)  
 - 🐙 [GitHub](https://github.com/shahbbo?tab=repositories)
 
