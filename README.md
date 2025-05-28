@@ -5,18 +5,19 @@
 </p>
 
 <p align="left">
-  <a href="mailto:shahbo.dev@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
-  </a>
+
   &nbsp;
   <a href="https://www.linkedin.com/in/mahmoud-shahbo-71b4232a4">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://github.com/shahbbo">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  <a href="mailto:shahbo.dev@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://drive.google.com/file/d/1qkpuP9FZNxmhp9mAfNEP3N6iwEPL1JAm/view?usp=drive_link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/136/136539.png" alt="Resume" width="40" height="40"/>
+  </a>
 </p>
 
 
