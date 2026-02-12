@@ -15,7 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1Mrwc3e994i-9NXGvT3OyxaUnwuA86Qg1/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1mOhzpBC9JknvVEWfRGeiUSukPg3dmfAE/view?usp=sharing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/136/136539.png" alt="Resume" width="40" height="40"/>
   </a>
 </p>
